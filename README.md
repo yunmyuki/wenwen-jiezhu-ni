@@ -83,13 +83,13 @@
 
 ```text
 Install the Wenwen Jiezhu Pro skill for me:
-https://github.com/YOUR_GITHUB_USERNAME/wenwen-jiezhu-pro
+https://github.com/yunmyuki/wenwen-jiezhu-ni
 ```
 
 或者手动 clone：
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/wenwen-jiezhu-pro
+git clone https://github.com/yunmyuki/wenwen-jiezhu-ni
 ```
 
 项目核心文件只有一个：
